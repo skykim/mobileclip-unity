@@ -67,6 +67,14 @@ Before running the scene on the device, you need to generate the embedding index
 3. Build and Run on your **Meta Quest 3**.
 4. You will see the MobileCLIP retrieval system working in a Mixed Reality environment.
 
+## Demo
+
+Experience MobileClip2 in Unity in action!
+Check out our demo showcasing the retrieval capabilities:
+
+[![MobileClip2 Unity Demo](https://img.youtube.com/vi/hl6nLNHIA_A/0.jpg)](https://www.youtube.com/watch?v=hl6nLNHIA_A)
+
+
 ## Links
 
 - **ONNX Generation Repo**: [skykim/ml-mobileclip-onnx](https://github.com/skykim/ml-mobileclip-onnx)
